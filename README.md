@@ -1,0 +1,1 @@
+Simple node app to access Azure SQL which perfom CRUD operation
